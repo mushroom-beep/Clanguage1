@@ -1,3 +1,9 @@
+//14-2장 문제 풀이와 수업 수강 기록
+//날짜: 2026/9/30
+//2600142 이수호
+
+
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 //void ShowArray(int* param, int len);
