@@ -38,7 +38,7 @@ int main(void)
     }
 
     printf("<최우수 학생정보>\n");
-    printf("%s %d %d %d %d %.2f\n",
+    printf("%s %d %d %d %d %f\n",
         s[best].name, s[best].id,
         s[best].kor, s[best].eng, s[best].math,
         s[best].avg);
